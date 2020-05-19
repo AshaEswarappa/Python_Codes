@@ -15,7 +15,7 @@ There is another file which is written to fine tune the facial features for less
 A built-in function is used to compare the images and identify the face that is like the known face. A set of unknown images are passed to identify the image that matches close to the known face. The image files and code file can be found inside the folder.
 
 The known image considered for face recognition can be found here 
-![SourceImage](./Face_Similarity/test_face.jpg]
+![SourceImage](./Face_Similarity/test_face.jpg)
 
 The face found similar to the source can be found here
 ![IdentifiedImage](./Face_Similarity/IdentifiedImage.jpg)
